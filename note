@@ -1,4 +1,5 @@
-///俄罗斯方块.Python
+///tetris
+///use: Python
 
 /使用到的第三方库：
     tkinter 用于创建GUI应用，这里用于构建tetris的游戏界面
